@@ -1,5 +1,4 @@
 # hello-world
-Do not think this is the first repo I created on here. It's the third. Better late than never, though.
 
 Hi! My name is Genesis and I'm a Web designer. I would actually prefer to call myself a UI/UX designer, but I don't know... Identity issues, I guess. Anyway, I design stuff that live on the web. Sometimes, if they're not very complicated, I (help) build them, too. I'm working on this though. I'm learning frontend development. That way, I can (almost always) help build awesome stuff I designed.
 
